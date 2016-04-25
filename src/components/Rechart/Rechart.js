@@ -21,7 +21,7 @@ class Rechart extends Component {
 
   render() {
     return (
-      <div style={{padding:20, textAlign: 'center'}}>
+      <div style={{padding:20}}>
         <h1>Rechart Chart</h1>
 
         <LineChart width={600} height={400}
