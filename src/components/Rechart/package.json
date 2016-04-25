@@ -1,0 +1,6 @@
+{
+  "name": "Rechart",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Rechart.js"
+}

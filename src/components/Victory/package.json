@@ -1,0 +1,6 @@
+{
+  "name": "Victory",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Victory.js"
+}
